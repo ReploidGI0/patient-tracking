@@ -1,4 +1,4 @@
-# Control de Presupuestos - React + TypeScript + Vite
+# Seguimiento de Pacientes - React + TypeScript + Vite + Zustand
 *📓 [Español](#inicio)*
 *📓 [English](#start)*
 
@@ -39,7 +39,7 @@ Se utilizó Bootstrap para manejar los estilos de la página
 
 *📷[Screenshots](#screenshots)*
 
-# Budget Control - React + TypeScript + Vite
+# Patient Tracker - React + TypeScript + Vite + Zustand
 
 ### <a id="start" />
 
